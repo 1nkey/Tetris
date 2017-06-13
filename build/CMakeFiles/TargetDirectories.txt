@@ -1,0 +1,7 @@
+/home/inkey/Tetris/build/CMakeFiles/install.dir
+/home/inkey/Tetris/build/CMakeFiles/list_install_components.dir
+/home/inkey/Tetris/build/CMakeFiles/rebuild_cache.dir
+/home/inkey/Tetris/build/CMakeFiles/tetris.dir
+/home/inkey/Tetris/build/CMakeFiles/install/strip.dir
+/home/inkey/Tetris/build/CMakeFiles/install/local.dir
+/home/inkey/Tetris/build/CMakeFiles/edit_cache.dir
